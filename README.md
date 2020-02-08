@@ -1,5 +1,15 @@
 # shipyard-deploy
 shipyard-deploy中文版
+
+wget https://raw.githubusercontent.com/gobyto/shipyard-deploy/master/shipyard-deploy
+chmod 755 shipyard-deploy
+./shipyard-deploy
+
+浏览器输入:http://主机IP:8080
+默认账号:admin
+默认密码:shipyard
+
+
 shipyard中文版安装教程（附安装脚本）
 三、shipyard中文版安装(CentOS)
 注：本文安装操作均在root用户下，安装前需先安装Docker (传送门)
